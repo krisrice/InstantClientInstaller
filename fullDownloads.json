@@ -1,0 +1,3171 @@
+{
+    "downloads": {
+      "platform": {
+        "darwin": {
+          "latest": "19.8",
+          "versions": [
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "19.8",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn_software/mac/instantclient/198000/instantclient-basic-macos.x64-19.8.0.0.0dbru.zip",
+              "md5": "2fe97361d8751b1b69000ae54cb7637a",
+              "sha1": "57ed4198f3a10d83cd5ddc2472c058d4c3b0b786246baebf6bbfc7391cc12087"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "19.8",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn_software/mac/instantclient/198000/instantclient-basiclite-macos.x64-19.8.0.0.0dbru.zip",
+              "md5": "eeb3ce61f539a997a17a85cc02980df8",
+              "sha1": "82fcc280726dafad0254f31a5dc7361c8ebce18e5eb4ed676a4143dda8aab9af"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "19.8",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn_software/mac/instantclient/198000/instantclient-sqlplus-macos.x64-19.8.0.0.0dbru.zip",
+              "md5": "d518835e1643378862a40cdcd8591fcf",
+              "sha1": "d3cba88b0a0a3d9993c4b64b611569d146cdf36ec55dd84eba4783517bd30959"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "19.8",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn_software/mac/instantclient/198000/instantclient-tools-macos.x64-19.8.0.0.0dbru.zip",
+              "md5": "ad20fe012f3b96290689458607eec976",
+              "sha1": "d711451996a916af6880643a78f4afe0fad7979a8e020459580a78989e6ec5d5"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "19.8",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn_software/mac/instantclient/198000/instantclient-sdk-macos.x64-19.8.0.0.0dbru.zip",
+              "md5": "800cb282ea1b22f072f7a421c284dffc",
+              "sha1": "0fa8ae4c4418aa66ce875cf92e728dd7a81aeaf2e68e7926e102b5e52fc8ba4c"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "19.8",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn_software/mac/instantclient/198000/instantclient-jdbc-macos.x64-19.8.0.0.0dbru.zip",
+              "md5": "567f450d08046266f42819b9519c9d1a",
+              "sha1": "fc8723efd6fedea3abf2b0e2fc25e18680bac37ec127377d6142cceaf9a1dc0d"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "19.8",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn_software/mac/instantclient/198000/instantclient-odbc-macos.x64-19.8.0.0.0dbru.zip",
+              "md5": "4842ab0a9bd700cb072d45eebf7356f5",
+              "sha1": "4bafb93f875a2bffa75f0a0798e923e032241edc1dccee463a408223ad766d16"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "18.1",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/mac/instantclient/181000/instantclient-basic-macos.x64-18.1.0.0.0.zip",
+              "md5": "e267146d624af2dc88e984168a7d41c7",
+              "sha1": "d15decce34feb8d481956cd4dbb4302d8f11b5cfeac7f3939f693ded864d5bb2"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "18.1",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/mac/instantclient/181000/instantclient-basiclite-macos.x64-18.1.0.0.0.zip",
+              "md5": "fa73ed0b25f113523ad00bada8dd7f4b",
+              "sha1": "716ad97205442149f3438aa25937e36649f13286faf979458dc870cb02e461c5"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "18.1",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/mac/instantclient/181000/instantclient-sqlplus-macos.x64-18.1.0.0.0.zip",
+              "md5": "502bee612ee72cf9e52c7f202e284dfe",
+              "sha1": "2d757fea6ce31fae251fc037f8f4b597534cad98fe1e52ba4ec81e3bdaccf3db"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "18.1",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn/mac/instantclient/181000/instantclient-tools-macos.x64-18.1.0.0.0.zip",
+              "md5": "bafc826a19ae3af9f4d0e2e8569173e2",
+              "sha1": "588b10d01422dd2e3fee1e498e006ded1412a4e69364277bef6bc03a2c54bc4b"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "18.1",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/mac/instantclient/181000/instantclient-sdk-macos.x64-18.1.0.0.0-2.zip",
+              "md5": "abf55fe5b0124d863300ffa60b8eb7b5",
+              "sha1": "38584dbc1cfbee9519dfe73e84b519f54dff590e2819e96ecdd6581933807cf6"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "18.1",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/mac/instantclient/181000/instantclient-jdbc-macos.x64-18.1.0.0.0.zip",
+              "md5": "969e0fad2717e98732aeeba27326e284",
+              "sha1": "43ae78b8481fadcc8e62445db3a0b86fcb7060a90d03cf19cbc7cf851fbce23c"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "18.1",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/mac/instantclient/181000/instantclient-odbc-macos.x64-18.1.0.0.0.zip",
+              "md5": "77d3e54782769c95fac39d2280b2a618",
+              "sha1": "80a6ed03e41e19e4b8f480df6dc20ec1e78729878b974ef616cdf2088c064b60"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "12.2",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/mac/instantclient/122010/instantclient-basic-macos.x64-12.2.0.1.0-2.zip",
+              "md5": "9e451ec0925a19ce0ef461869bfdd799",
+              "sha1": "c34ad7788dc2f9db392164d4e8cfd1baf7e0d326478fa3bbcb1f27cdd8b543b2"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "12.2",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/mac/instantclient/122010/instantclient-basiclite-macos.x64-12.2.0.1.0-2.zip",
+              "md5": "c045ef3f1c344c0e896dca1c8379dfb2",
+              "sha1": "58dc078d973e08322b4dba251026e5c939388d790151bb0440430f57998c78f8"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "12.2",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/mac/instantclient/122010/instantclient-sqlplus-macos.x64-12.2.0.1.0-2.zip",
+              "md5": "b432a2a142df62afce9ca835bd53cdce",
+              "sha1": "acefaab0e59ab2f8a8cd647223f98188603e3633eab1275f6d4e351c75f3a7f3"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "12.2",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn/mac/instantclient/122010/instantclient-tools-macos.x64-12.2.0.1.0-2.zip",
+              "md5": "3d98c769fea784658697257418b80109",
+              "sha1": "3bf04cc8d565c16f597c8d2eac71ef08d70852b328c348981a0d71b8b623a795"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "12.2",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/mac/instantclient/122010/instantclient-sdk-macos.x64-12.2.0.1.0-2.zip",
+              "md5": "05f331d6a875b22cb55ee97e0d551821",
+              "sha1": "d8fd68911930dc0c90ba037f501b0f8fd3e4cc58ea42d7e23c94a8f05aca3497"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "12.2",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/mac/instantclient/122010/instantclient-jdbc-macos.x64-12.2.0.1.0-2.zip",
+              "md5": "c282a987a50ecee5ce273b49ad48085c",
+              "sha1": "e40caf9870a21de056503edf5266424e58e4aff5d33dadeb85f0ac35c828edd4"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "12.2",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/mac/instantclient/122010/instantclient-odbc-macos.x64-12.2.0.1.0-2.zip",
+              "md5": "1abbdaaefbd237db76fd2eb2bd8c9abc",
+              "sha1": "9f022ed1f185754c502895afa84f233cd928d28b39467439b6ba7b7e6377f226"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "12.1",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/mac/instantclient/121020/instantclient-basic-macos.x64-12.1.0.2.0.zip",
+              "md5": "bcb9039d18aa7e9ff022418eec5ed75c",
+              "sha1": "934071dac73f2fcb974cea8a7841c3c3aedd4f966f9f4536a14e15de6184dc0a"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "12.1",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/mac/instantclient/121020/instantclient-basiclite-macos.x64-12.1.0.2.0.zip",
+              "md5": "7ac5e93c84a27be86207b3e9f2c14812",
+              "sha1": "ef27a235404a73364bce0eeb09b33b677e36f58d1c5630903db86cf30f07dd11"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "12.1",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/mac/instantclient/121020/instantclient-jdbc-macos.x64-12.1.0.2.0.zip",
+              "md5": "fb583ed88207668ce0d3c90ce3533449",
+              "sha1": "b2e11be88e21ad2a51fc0a5b585b4b2d2cb0e37163a95bcfee98e686198bf51e"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "12.1",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/mac/instantclient/121020/instantclient-sqlplus-macos.x64-12.1.0.2.0.zip",
+              "md5": "89c773bd4ec06bbb4ad40d676f5398d5",
+              "sha1": "c3616b1f8d2b8f8424a29a512ccdb415005dbbd79a3423786b614fb40a676202"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "12.1",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/mac/instantclient/121020/instantclient-odbc-macos.x64-12.1.0.2.0.zip",
+              "md5": "dd9487583e22d5d28bfe02464ff59200",
+              "sha1": "fa18036890a167e9919ce9fe448cf2291f473600a6f1db45ed3caa4b45dc072f"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "12.1",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/mac/instantclient/121020/instantclient-sdk-macos.x64-12.1.0.2.0.zip",
+              "md5": "18cebd293a9fdb196f54394983382c9e",
+              "sha1": "681ead702dad3f7a7480cfe5aa1d1dcfeb02bd8ddf06631310297edf33c35124"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "12.1",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn/mac/instantclient/121020/instantclient-tools-macos.x64-12.1.0.2.0.zip",
+              "md5": "22d8135bb332011e9f76c9445f13f484",
+              "sha1": "f3f0eed494ab8e03db7123049e75caddb044c4ef4bfc5789bf0db79318b67156"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "12.1",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/mac/instantclient/121020/instantclient-basic-macos.x32-12.1.0.2.0.zip",
+              "md5": "89897f2ae6e495a49a8a8a6dc8ea85e3",
+              "sha1": "4baa59eab2992482b2e2e90a6afb5e3a116f763d92ec6e3a1b383bec4b44e553"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "12.1",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/mac/instantclient/121020/instantclient-basiclite-macos.x32-12.1.0.2.0.zip",
+              "md5": "7ca8aa139511901032b211f0597530b9",
+              "sha1": "30d0909bb7ad33aef45eedf0c72dedc657367ba1c03dae756577e537111c47a6"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "12.1",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/mac/instantclient/121020/instantclient-jdbc-macos.x32-12.1.0.2.0.zip",
+              "md5": "89bc3d59c4b66bf50d5d8c0c1e46962f",
+              "sha1": "2db91d65fdfea2519947d3b40acb600a4700e26e9bae0bf7f22021732d56323f"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "12.1",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/mac/instantclient/121020/instantclient-sqlplus-macos.x32-12.1.0.2.0.zip",
+              "md5": "081d81cc82baac130a599247563637dd",
+              "sha1": "880a033d131db2f57ba1233de6368386aa9aaf57237b8db439d0c8d7f5cf3e0b"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "12.1",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/mac/instantclient/121020/instantclient-odbc-macos.x32-12.1.0.2.0.zip",
+              "md5": "79193d607b37b0c285640c27dabc209f",
+              "sha1": "386b9c76c38ad3f1b9a6b147ba29fbf654294bf146cf481c1b943a09e76c7b9b"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "12.1",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/mac/instantclient/121020/instantclient-sdk-macos.x32-12.1.0.2.0.zip",
+              "md5": "150882e6268088aee536c5fdfcd636cb",
+              "sha1": "217ed9712e0af396fb054608f993fd10251da08ffc60e90a12784f173fbdd7c5"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "12.1",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn/mac/instantclient/121020/instantclient-tools-macos.x32-12.1.0.2.0.zip",
+              "md5": "ff604a38ca92b5c6a338e6d62e7faf15",
+              "sha1": "960c848b0146a17e8c17d2198735dc0d2890b7f45a1e6ea4b799c80f707265b1"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "11.2",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/mac/instantclient/11204/instantclient-basic-macos.x64-11.2.0.4.0.zip",
+              "md5": "e805de7d1d329147850e17bfd4a562ee",
+              "sha1": "aecd5267ded91e720aacc1525bb76e209e6bb095f9597eace0140186f6240bb4"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "11.2",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/mac/instantclient/11204/instantclient-basiclite-macos.x64-11.2.0.4.0.zip",
+              "md5": "5a897e8f4e70364d518c752f63274495",
+              "sha1": "cb1b7fc0f9500fe5858afab4ebc052c1b807bfb5685702ac2f2b7bd62e7946c3"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "11.2",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/mac/instantclient/11204/instantclient-jdbc-macos.x64-11.2.0.4.0.zip",
+              "md5": "502eb660cfd2affac4b6c4c8a96b8ef8",
+              "sha1": "3cbf134e885148acb4aaf8deb3960dfb924b01402d36a8a68055cf2f4123701c"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "11.2",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/mac/instantclient/11204/instantclient-sqlplus-macos.x64-11.2.0.4.0.zip",
+              "md5": "59edc0153ae2af430346489be7d3c994",
+              "sha1": "ead93b063f3d55e28516ba6e1703ba9d2013f5fa8c159dced490b5f868eaf500"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "11.2",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/mac/instantclient/11204/instantclient-sdk-macos.x64-11.2.0.4.0.zip",
+              "md5": "afd77a87fea0d32a79cb91c805bdd137",
+              "sha1": "a5240445162c06ed6a79a36801ee7dff9aa9d7a9bdf795f811a62cf082ce2245"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "11.2",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn/mac/instantclient/11204/instantclient-tools-macos.x64-11.2.0.4.0.zip",
+              "md5": "aa5651f059efa53fd2a9a2bbb50b7037",
+              "sha1": "1ac89a7b153bc01b6d607cd32115c89e0aedd4859fed0489a11c1bac40dc4778"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "11.2",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/mac/instantclient/11204/instantclient-basic-macos.x32-11.2.0.4.0.zip",
+              "md5": "c23347472a4e49f4644ec2fdd57328ff",
+              "sha1": "edeec84c40df1de0cfb2964ef519a2449c9cebacfe3f1d0ee3c410bd59a48c92"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "11.2",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/mac/instantclient/11204/instantclient-basiclite-macos.x32-11.2.0.4.0.zip",
+              "md5": "f6cc8f3ea029fd4127e75af6ec20c7c8",
+              "sha1": "d285a451c6bb89fbf1a3c6be81c062f98730c95263ec375f7beeba4036c926ef"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "11.2",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/mac/instantclient/11204/instantclient-jdbc-macos.x32-11.2.0.4.0.zip",
+              "md5": "7022da87d8f92743eecf07d2be7f2c56",
+              "sha1": "95e587511922d35a7665418b4ae07e21f7ace362ed71791d262688d8414f0bdc"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "11.2",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/mac/instantclient/11204/instantclient-sqlplus-macos.x32-11.2.0.4.0.zip",
+              "md5": "00eac241d8dd149d4628302363652b4f",
+              "sha1": "1e70797b039c0f9e5ca9f7a1c0aca32c137b85d80a4ab554979a5b44f5a62584"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "11.2",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/mac/instantclient/11204/instantclient-sdk-macos.x32-11.2.0.4.0.zip",
+              "md5": "88ba3e1eeaf231d24e8b502cddf99db9",
+              "sha1": "c2289e8dac1df56451e0c8fe308b1640ab66988206e67416fd18b8db1174b08e"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "11.2",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn/mac/instantclient/11204/instantclient-tools-macos.x32-11.2.0.4.0.zip",
+              "md5": "5848dffe607c7f48a226fbd375ffee60",
+              "sha1": "ecb8516e474a691c1867f60e32cea1f62c49438c8cddc76c1c5f2883670d04a7"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "10.2",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/mac/instantclient/10204/instantclient-basic-10.2.0.4.0-macosx-x64.zip",
+              "md5": "6e0fba8b3127771a0474527857999484",
+              "sha1": "29b96b4389562458d7c07143e8452f0dfc05d8442ad4cd94a49c0064e4e6f346"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "10.2",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/mac/instantclient/10204/instantclient-basiclite-10.2.0.4.0-macosx-x64.zip",
+              "md5": "d53bd269d1ba0f89d2702f3658dcb90b",
+              "sha1": "cc64778cb5713437832557949715864b5f4ffe6f0c290bdff5949bb0221611fd"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "10.2",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/mac/instantclient/10204/instantclient-jdbc-10.2.0.4.0-macosx-x64.zip",
+              "md5": "a847e33dce8c748d8441cfdd8d35066c",
+              "sha1": "ed20d8168ba7e255fb85199ba37caaf21a087ae87ff89239120b1469716a5eac"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "10.2",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/mac/instantclient/10204/instantclient-sqlplus-10.2.0.4.0-macosx-x64.zip",
+              "md5": "b01a92ec75a496af56fe7e0f9557fc0f",
+              "sha1": "e3d1863fd9ed57254609265d6f28c6a52d284a5a84c68916ce46f34aec428580"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "10.2",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/mac/instantclient/10204/instantclient-sdk-10.2.0.4.0-macosx-x64.zip",
+              "md5": "a5dd7110012f9d0f4dc4a2afbe9b0188",
+              "sha1": "09427f0cc8d2049ee3e59a119b81206545925ad771eb4036746dd68fb1f74eec"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "10.2",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/mac/instantclient/10204/instantclient-basic-10.2.0.4.0-macosx-x86.zip",
+              "md5": "311c0292b9d481e5f6f6de168fbeb35c",
+              "sha1": "57b73fe26228bc6665bd48fe90e6056cd61ac371b21ed5d322ef8865784aeacb"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "10.2",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/mac/instantclient/10204/instantclient-basiclite-10.2.0.4.0-macosx-x86.zip",
+              "md5": "41f7f8052681680ad52f1158508f2630",
+              "sha1": "ecca333679fa348f07cdfcda1f761d5794a3ac048786ad8e58d3a0c4410bb59d"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "10.2",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/mac/instantclient/10204/instantclient-jdbc-10.2.0.4.0-macosx-x86.zip",
+              "md5": "3d5185ce7682c63992d4e1486fc17d6d",
+              "sha1": "31056cf1e9a67c3d3016368d7aa5cc273f2e992af6e0e773aef978cbdb9b8f6a"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "10.2",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/mac/instantclient/10204/instantclient-sqlplus-10.2.0.4.0-macosx-x86.zip",
+              "md5": "7c23b6d5199da55e7bbd2aadd87b1166",
+              "sha1": "5eed65658a18065f1b96511bed13418636e703a5198711f9bd398b3575782f86"
+            },
+            {
+              "platform": "darwin",
+              "arch": "x86_64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html",
+              "version": "10.2",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/mac/instantclient/10204/instantclient-sdk-10.2.0.4.0-macosx-x86.zip",
+              "md5": "b7e36c226d0cea45e889b2630d21a789",
+              "sha1": "1414645ef8505a62e0df1d718d35a13f0318d29c9bca3dee8345ccea9f088f4e"
+            },
+            {
+              "platform": "darwin",
+              "arch": "ppc",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-x-ppc-downloads.html",
+              "version": "10.1",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/mac/instantclient/instantclient-basic-macosx-10.1.0.3.zip",
+              "md5": "7f1643a6c38606e80865901dfef2a825",
+              "sha1": "45ec0769fe54fc489060cdd737d66f3d9b1f3af268b55b721d7c0c4a6be324c6"
+            },
+            {
+              "platform": "darwin",
+              "arch": "ppc",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-x-ppc-downloads.html",
+              "version": "10.1",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/mac/instantclient/instantclient-jdbc-macosx-10.1.0.3.zip",
+              "md5": "e41743006f5dea6ff0878ac17a586223",
+              "sha1": "9f44d66c9f0cd42cfeed4e013865df2d1eb1e97b26e450293d67865ec7f30be3"
+            },
+            {
+              "platform": "darwin",
+              "arch": "ppc",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-x-ppc-downloads.html",
+              "version": "10.1",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/mac/instantclient/instantclient-sqlplus-macosx-10.1.0.3.zip",
+              "md5": "4ae874a75ee86afe504e12f4ac20ab95",
+              "sha1": "d06454009427c26739dfae6af955d8c3866731fa6215099d512af8811edb2e63"
+            },
+            {
+              "platform": "darwin",
+              "arch": "ppc",
+              "url": "https://www.oracle.com/database/technologies/instant-client/macos-x-ppc-downloads.html",
+              "version": "10.1",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/mac/instantclient/instantclient-sdk-macosx-10.1.0.3.zip",
+              "md5": "67a3a0ed4dc96490d5c89e986780b8ef",
+              "sha1": "396986d336d01af6f4a85a85ba8b33dc852b9f81f71774891741577169a6baab"
+            }
+          ]
+        },
+        "win": {
+          "latest": "21.3",
+          "versions": [
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "21.3",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/213000/instantclient-basic-windows.x64-21.3.0.0.0.zip",
+              "md5": "2b4546f4cde9a2fae213352070a89d92",
+              "sha1": "78a1b680e03ae550d4e1c3bf9c4f9fc091d671baf933dcf645b19de508c4373b"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "21.3",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/213000/instantclient-basiclite-windows.x64-21.3.0.0.0.zip",
+              "md5": "9f1c69e23ea8b576eabccdd44e6c5a0b",
+              "sha1": "9771fcbb024a2f1c2288adeee6c3184597986f0cb01d1163a9264f02903274b6"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "21.3",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/213000/instantclient-sqlplus-windows.x64-21.3.0.0.0.zip",
+              "md5": "f5da6524af6403d90b30ca1c54051f10",
+              "sha1": "1ed62880917bc13b0edda8d9381d74e7145708899b64a109e01c591fa12861cf"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "21.3",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/213000/instantclient-tools-windows.x64-21.3.0.0.0.zip",
+              "md5": "1edc9613a2e327f327251d1d3d5db719",
+              "sha1": "ce9c1eff558e87ca230e3eba68e6b480fbc2eac6be18f5a820e460f107422a5b"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "21.3",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/213000/instantclient-sdk-windows.x64-21.3.0.0.0.zip",
+              "md5": "bb8171a700c6a2c351b76a374fd663af",
+              "sha1": "b9173f20f8abdd5379ff5105b7ec7295b66c0f3c5d713d32bec60e73c18039c1"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "21.3",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/213000/instantclient-jdbc-windows.x64-21.3.0.0.0.zip",
+              "md5": "3906603616db48c57416156bf6dd2fed",
+              "sha1": "021fb0d47ded286e97be975ab50979d094fa28973704c7e0da415b1e539c1060"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "21.3",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/213000/instantclient-odbc-windows.x64-21.3.0.0.0.zip",
+              "md5": "6762fc8f5ea667772ad5bf55702580c8",
+              "sha1": "c9da97d3cdee82a01000e93f2e0d2f1d41c5f327d88b1ae98d52c5863b94f795"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "19.13",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/1913000/instantclient-basic-windows.x64-19.13.0.0.0dbru.zip",
+              "md5": "beadd4059b2b62dd6ef3012588fe93ce",
+              "sha1": "06c2a58162cc5add2851361a1cf588e23e497dd31dc1170dc0700b17f4155c72"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "19.13",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/1913000/instantclient-basiclite-windows.x64-19.13.0.0.0dbru.zip",
+              "md5": "1dfdbc41b05de7fa8ec98e25dff62cbe",
+              "sha1": "d9e127cc819f77d49aec38e5314df1bf8eaac4fdccae2d877e0663202a65354a"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "19.13",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/1913000/instantclient-sqlplus-windows.x64-19.13.0.0.0dbru.zip",
+              "md5": "0a4d2a40c285b554ff11472309723eb3",
+              "sha1": "cfc81550cb4cd055aafa2e198577a6d309239ec6f1a8aeecd3ac15e88f1c5628"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "19.13",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/1913000/instantclient-tools-windows.x64-19.13.0.0.0dbru.zip",
+              "md5": "001444d50e5e6a8b11146de30792351b",
+              "sha1": "99764a24bbf869143892602361fa278d37be0004f320c17753538facf9ce0490"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "19.13",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/1913000/instantclient-sdk-windows.x64-19.13.0.0.0dbru.zip",
+              "md5": "bd6332a2a72973dca2be42a51b4524c4",
+              "sha1": "b241503b315d274e12d680237beb97cde89b59f6d100777582efb38ae78cc7b0"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "19.13",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/1913000/instantclient-jdbc-windows.x64-19.13.0.0.0dbru.zip",
+              "md5": "03e13663c67e115e373c550706d14ace",
+              "sha1": "d3aa6624abbf91885ee74cdeda384972b984ae84073fac4c535f14802c45fa2c"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "19.13",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/1913000/instantclient-odbc-windows.x64-19.13.0.0.0dbru.zip",
+              "md5": "36c0ec68f15556ee66c21f0d2d7d3797",
+              "sha1": "0b584932ab0450d1e2e900e9a2627cb8955d22f2d6a407a21cd814080641d88d"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "18.5",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/nt/instantclient/185000/instantclient-basic-windows.x64-18.5.0.0.0dbru.zip",
+              "md5": "90059a2474a5b50deb39b4f3fd0d9734",
+              "sha1": "2f495d3039daca2fa980e75d6bc11872c1ccaab78b9916f728a3fe4cb0367992"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "18.5",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/nt/instantclient/185000/instantclient-basiclite-windows.x64-18.5.0.0.0dbru.zip",
+              "md5": "22c3fe604ec796a29b97853e86ef7c61",
+              "sha1": "fb72dad47d622ad73a16d77ab7d513efd36c496e85c412a5fbe54c6ac69f2aac"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "18.5",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/nt/instantclient/185000/instantclient-sqlplus-windows.x64-18.5.0.0.0dbru.zip",
+              "md5": "a02fd1454bb4c2d459b2d1d8dedd62fb",
+              "sha1": "5bb850e157dfbf8f7a7fde6409c8f720b4cf0f8504e1bce4af71860591716aeb"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "18.5",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn/nt/instantclient/185000/instantclient-tools-windows.x64-18.5.0.0.0dbru.zip",
+              "md5": "fa52e6fc4381b7995f4f2e646a179ab2",
+              "sha1": "74c8105bcfd49dea79e45860864d84cbafac6dc8324204e0ef309d3c03e33592"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "18.5",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/nt/instantclient/185000/instantclient-sdk-windows.x64-18.5.0.0.0dbru.zip",
+              "md5": "b7b2453f589bcaa7713bcebddbf41027",
+              "sha1": "e1949f03e57249bceb0c44646d372c355f7ad26409e50c8f10ea9c6492c0b74f"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "18.5",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/185000/instantclient-jdbc-windows.x64-18.5.0.0.0dbru.zip",
+              "md5": "7ea0ad486c84172a4882f36b6155a447",
+              "sha1": "e31ec50ff22e57e6b96c9cdc77808a7bb675be716109406c8dd12a322a41dd13"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "18.5",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/185000/instantclient-odbc-windows.x64-18.5.0.0.0dbru.zip",
+              "md5": "f05c2762eb95c44858d6bc93eae79a71",
+              "sha1": "01de7684ae5cdb37795b133ae8a28d920d0a34b621a457383235aa92aa72c8d1"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "12.2",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/nt/instantclient/122010/instantclient-basic-windows.x64-12.2.0.1.0.zip",
+              "md5": "2fba61ba6ffa67b6b63cd99e0f14928c",
+              "sha1": "52f7c61ae70507626c76c7fbf45f98ad0405dedf1f07630cc840d557f8cbce5e"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "12.2",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/nt/instantclient/122010/instantclient-basiclite-windows.x64-12.2.0.1.0.zip",
+              "md5": "5dc7dff7754543cc5a7bc4ab4e458285",
+              "sha1": "c1706d804ea1f035643842429c6bb92dc701478ae6a2838276fc9cf50a994109"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "12.2",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/nt/instantclient/122010/instantclient-sqlplus-windows.x64-12.2.0.1.0.zip",
+              "md5": "651adf02f5dc2bf4c2ab19fef5ab890a",
+              "sha1": "8d765c01c22485b0cc0036601a3d4be9118f443ccb2dcc85581f092ba4f9d7a8"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "12.2",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn/nt/instantclient/122010/instantclient-tools-windows.x64-12.2.0.1.0.zip",
+              "md5": "ec83c7f59c053f579887cbbbbafd1878",
+              "sha1": "bbd1097e05ee3e0514c4c7344bb4f7cdab2d2072bbc94ce55ad4491a107e6376"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "12.2",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/nt/instantclient/122010/instantclient-sdk-windows.x64-12.2.0.1.0.zip",
+              "md5": "2d5eecd85f50ef0cf6e0c01175720d54",
+              "sha1": "77f8ae663ea98fcd1f563e4f60eee1fa303f30ebcc1f97edc9f31c31a5815f54"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "12.2",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/122010/instantclient-jdbc-windows.x64-12.2.0.1.0.zip",
+              "md5": "82c966357105309ca8128b690bf9a51a",
+              "sha1": "410fa1565750be6ecb367ed43bf76df7c529eb399b95ad22568e88cc881757c2"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "12.2",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/122010/instantclient-odbc-windows.x64-12.2.0.1.0-2.zip",
+              "md5": "2f14caf2ab10db554d23bb6aea73e3c2",
+              "sha1": "5a9c045ec6549b66aa03f35787e4bc47666dff95add8f2c861086936409139a3"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "12.1",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/nt/instantclient/121020/instantclient-basic-windows.x64-12.1.0.2.0.zip",
+              "md5": "6ebf544f3e6275cb5b447cfc872a07f7",
+              "sha1": "af33d2d4d12103c7db99372e05d04c1a0f5c61879b49054d9cfc4b26c7414dca"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "12.1",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/nt/instantclient/121020/instantclient-basiclite-windows.x64-12.1.0.2.0.zip",
+              "md5": "569afb30d00a2f7b40a9d00d5337067d",
+              "sha1": "bc2891015551dfa114ed1508b33de3bcc020783034bf9cea196839d7aaa76ed0"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "12.1",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/121020/instantclient-jdbc-windows.x64-12.1.0.2.0.zip",
+              "md5": "b2efb8562adb116af218cfce1c12edee",
+              "sha1": "1b125c064840ace829e9f89146a551f34ba9aa2bbae217b2dfc46186ad07785e"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "12.1",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/nt/instantclient/121020/instantclient-sqlplus-windows.x64-12.1.0.2.0.zip",
+              "md5": "921fbd98d452b95a3c01bfea5d194f26",
+              "sha1": "98817532334061d6c4404eddaa4010b418f13b4934588b113b9ca2b91038c643"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "12.1",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/nt/instantclient/121020/instantclient-sdk-windows.x64-12.1.0.2.0.zip",
+              "md5": "5ed991d121a2cb266598c8d187481c77",
+              "sha1": "60e7cd0da0ad630cd9de7dbae886f4e5dab13f102a0e12efa2a9fc377a507c6a"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "12.1",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/121020/instantclient-odbc-windows.x64-12.1.0.2.0.zip",
+              "md5": "cefb9be616ac17206ef0ad8276b49d09",
+              "sha1": "24f9f1552f581f797f3a4f17d179f40a7bd19e4fa169fa4a7aa39083981b6e29"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "12.1",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn/nt/instantclient/121020/instantclient-tools-windows.x64-12.1.0.2.0.zip",
+              "md5": "188a4480fb324d532489aa5ea5ba397c",
+              "sha1": "3759b9f8a43c454897bf4046847301ce87768b8136fec9f6e93b3e0888fe4a76"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "11.2",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/nt/instantclient/11204/instantclient-basic-windows.x64-11.2.0.4.0.zip",
+              "md5": "f6f927b2dca255f287c77b7aa7948d25",
+              "sha1": "f43296611a6b0250cd742b883ed3055fa241f4c854df3d5dba59b609cfc78951"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "11.2",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/nt/instantclient/11204/instantclient-basiclite-windows.x64-11.2.0.4.0.zip",
+              "md5": "1952fbf0cc54a8853d568d3bb9ff7f05",
+              "sha1": "bb0bd5e958a511e4e6fd6e03594049fe4249b8c51d7c73e5eee7205249a3f37c"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "11.2",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/11204/instantclient-jdbc-windows.x64-11.2.0.4.0.zip",
+              "md5": "f9860b350219c4e181070d0f4586dad4",
+              "sha1": "2fc94b7bde9844e5336e0e353bcfc1f3939192fbac000934b811cb463297870f"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "11.2",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/nt/instantclient/11204/instantclient-sqlplus-windows.x64-11.2.0.4.0.zip",
+              "md5": "ab27b094e76d12b7a152724223e88c37",
+              "sha1": "b5239791655e3f63b28136e175e480023efb65c0b495cff204d2dd401c7d86ca"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "11.2",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/nt/instantclient/11204/instantclient-sdk-windows.x64-11.2.0.4.0.zip",
+              "md5": "4d6d19177abdf390364b6a8faf1f8bf5",
+              "sha1": "4f3157ba87e68ebd27beebcc8e5dcbf9184df6abf6e161ed6eb411e6d7c9f6ce"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "11.2",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/11204/instantclient-odbc-windows.x64-11.2.0.4.0.zip",
+              "md5": "ef4b2d39f0fda8f2782895d64b68646d",
+              "sha1": "e00af5d305a8cfe2234fe40a35317d2fcf34fae01109630c89f4f7155395f36b"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "11.2",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn/nt/instantclient/11204/instantclient-tools-windows.x64-11.2.0.4.0.zip",
+              "md5": "71e6e714c2d9fab443e976ffe7361127",
+              "sha1": "9cac48436cdeddee4f4312dbde9dd7d090fecb4dd0020c4c1d71a179d191ed61"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "11.1",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/nt/instantclient/111070/instantclient-basic-win-x86-64-11.1.0.7.0.zip",
+              "md5": "a75738b8d88ff8320628aeb1e9d9b197",
+              "sha1": "e670dfb2548fe6ae066d754fcb1ca046c8f37b13aa05d7be09415661a98ff567"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "11.1",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/nt/instantclient/111070/instantclient-basiclite-win-x86-64-11.1.0.7.0.zip",
+              "md5": "25f621cc4cb09fcd015db90ad1d1f783",
+              "sha1": "6970fee325dfa4435b4f710568b89dea308f8207cba45fe45d62cbc5465f7915"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "11.1",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/111070/instantclient-jdbc-win-x86-64-11.1.0.7.0.zip",
+              "md5": "6caba6e196367ea983edb10c9c7119db",
+              "sha1": "4a117e69dfb28af3519fa78aa245e43f0c5b30517803db5b40dfd468c937f89b"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "11.1",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/nt/instantclient/111070/instantclient-sqlplus-win-x86-64-11.1.0.7.0.zip",
+              "md5": "28fea11f2b2ac4ac064511efc1640761",
+              "sha1": "0a7b29aa2fe3a06803fbf8d0dca766e9ac793e9927b88551953274c0485c59e3"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "11.1",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/nt/instantclient/111070/instantclient-sdk-win-x86-64-11.1.0.7.0.zip",
+              "md5": "5daeb62526a4de4295440e7d28964394",
+              "sha1": "93033b93ad5133a320aad815fc19d976493e47aa891bd8dd522a7237b7f37cc5"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "11.1",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/111070/instantclient-odbc-win-x86-64-11.1.0.7.0.zip",
+              "md5": "d1693917f393177f262e2507aa889aba",
+              "sha1": "5ed5cd2555a2af9b8ed544ed29e1c2082f1b080def0c69bace21689dbd95765a"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "11.1",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn/nt/instantclient/111070/instantclient-tools-win-x86-64-11.1.0.7.0.zip",
+              "md5": "72ea93e01ee6560024d1680dc7d39473",
+              "sha1": "b990cb7e31db2ee4313a6949205ae6f6a0f78ab8d1866559e275112185287a88"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "10.2",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/nt/instantclient/10205/instantclient-basic-win64-10.2.0.5.zip",
+              "md5": "ed14c488156141237588a7b083159a64",
+              "sha1": "323a049ecac4cf8e6c2f8c4389b6a2f49bc8a606048f66d0cc3e08b3a0df36f5"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "10.2",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/nt/instantclient/10205/instantclient-basiclite-win64-10.2.0.5.zip",
+              "md5": "d897cc96564c6135b99990ae3d0037b3",
+              "sha1": "c99c258e5604c4f0b13372069b06dfac8928fc4bac6c33268e720800c8e14e2f"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "10.2",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/10205/instantclient-jdbc-win64-10.2.0.5.zip",
+              "md5": "2ab521b07ec29e8db0f11f62d1f8ce07",
+              "sha1": "f83582d52653fe9c10134d20abe1476e7000354eed4b6d185d0c8482a1114431"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "10.2",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/nt/instantclient/10205/instantclient-sqlplus-win64-10.2.0.5.zip",
+              "md5": "a47f13bee0aca9e678680e83e6f50d7b",
+              "sha1": "d5fbb0452a5746991893441681984fa56fc9d423a32f4da437d06501ad01f515"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "10.2",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/nt/instantclient/10205/instantclient-sdk-win64-10.2.0.5.zip",
+              "md5": "d8591271b9685fb98f2b532ffc63002f",
+              "sha1": "1c2ae36ce0f4b0c49c19192c3ca86fd9d26a7f41a8189b401879f4a413445730"
+            },
+            {
+              "platform": "win",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html",
+              "version": "10.2",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/10205/instantclient-odbc-win64-10.2.0.5.zip",
+              "md5": "f3ac047827c54559c8e55df939946d85",
+              "sha1": "1d74867c99e12487316f394bcf045d69643a49e00771eeee96ac09cb482989b7"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "21.3",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/213000/instantclient-basic-nt-21.3.0.0.0.zip",
+              "md5": "446ef5c4e8d9717d54db169fa3c2645e",
+              "sha1": "b09a84179d3ad9024883ff409429c7327d62790058c0b933af11ffe1b3e065ad"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "21.3",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/213000/instantclient-basiclite-nt-21.3.0.0.0.zip",
+              "md5": "cb1555f7e88fe43e20679a12a2199220",
+              "sha1": "06004f1aa5795b8c9877f2fc81680b537dc999f700c0013bf4c8283461430a09"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "21.3",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/213000/instantclient-sqlplus-nt-21.3.0.0.0.zip",
+              "md5": "fa7ec1480bc46c017a651beeaf85e13e",
+              "sha1": "dfe2213141f0297c66770481885b12918ee633fbae1d8e6298478c09a091889e"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "21.3",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/213000/instantclient-tools-nt-21.3.0.0.0.zip",
+              "md5": "43bbd4fc16cc4134e59770fb9ec4e089",
+              "sha1": "4b608b798ec35361f404959f0954461a86307b198e1b642e926f35ad730bb1fc"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "21.3",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/213000/instantclient-sdk-nt-21.3.0.0.0.zip",
+              "md5": "0f468a7312e579dda9a52deaa410fba9",
+              "sha1": "60227bf6822bed57cf3dc44b03e75e4de8620a8891232a516edbaed329357461"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "21.3",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/213000/instantclient-jdbc-nt-21.3.0.0.0.zip",
+              "md5": "2919528f51f8df5743f438037934a253",
+              "sha1": "fe26a8969c025fde22e95269ce8b8e39e4e30f7e2cd2e0a4dea571032921fe76"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "21.3",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/213000/instantclient-odbc-nt-21.3.0.0.0.zip",
+              "md5": "823ab6dc2a2a60923fb70d840190203d",
+              "sha1": "75bf95c8eb20997760461badcbb4959de5336cf956c810749582bb503dad9c5b"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "19.13",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/1913000/instantclient-basic-nt-19.13.0.0.0dbru.zip",
+              "md5": "75299c5b9e3056efc332a63c60365143",
+              "sha1": "96cdc13677a3d85852ff06b011130ea7435486b7c2deb35042a2bf517f414171"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "19.13",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/1913000/instantclient-basiclite-nt-19.13.0.0.0dbru.zip",
+              "md5": "d2eb6b098d19bb110ec393e313674ddf",
+              "sha1": "cbeedadec6317936a84eadbcebd5a6c1ec711214099a7bbd13a4633ee715ee7f"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "19.13",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/1913000/instantclient-sqlplus-nt-19.13.0.0.0dbru.zip",
+              "md5": "5784ec4aa39059f0edf7bc913ba14857",
+              "sha1": "908ba55aac1ba1f199e677d38739474ccc2a450bef8bb7481dc8b1feedc2e480"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "19.13",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/1913000/instantclient-tools-nt-19.13.0.0.0dbru.zip",
+              "md5": "0e43de8bbfb4fed547e3a6994bd79dd6",
+              "sha1": "63e06deaadae008783a5465e7021f670de5634576ea255873e9c57e67baaf593"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "19.13",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/1913000/instantclient-sdk-nt-19.13.0.0.0dbru.zip",
+              "md5": "d9fbe785a66e6b8cc27bb921e4a2798c",
+              "sha1": "9562756815846319134bbd0fdbf1347ffe332e91c20a3fe387ede49924bc240a"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "19.13",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/1913000/instantclient-jdbc-nt-19.13.0.0.0dbru.zip",
+              "md5": "c7d7df64dd3b2a790da171311df81010",
+              "sha1": "f324da1d761513d50d939a9ab78d55ec9004dcd76d7fe07c8e0d3ee1c62286c7"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "19.13",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn_software/nt/instantclient/1913000/instantclient-odbc-nt-19.13.0.0.0dbru.zip",
+              "md5": "f7c91602b47083d9b0a75044a4e79e56",
+              "sha1": "92c8091992d5c21ddf0721f1e3ba666b6c455f210fd36784511544e06dad94a0"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "18.5",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/nt/instantclient/185000/instantclient-basic-nt-18.5.0.0.0dbru.zip",
+              "md5": "4818ba192ea3c1ba0de3154d27416096",
+              "sha1": "376b744be7b3920c67118a788ab4b862f1623d4379a87c7b243ddfcafbc465e4"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "18.5",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/nt/instantclient/185000/instantclient-basiclite-nt-18.5.0.0.0dbru.zip",
+              "md5": "ebf3ab93e46ec0a82980be2b974aa3a5",
+              "sha1": "59924ea82a2310d1e6fa11abc7c240820db9c53e584561b0696ec85a95dbfcbd"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "18.5",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/nt/instantclient/185000/instantclient-sqlplus-nt-18.5.0.0.0dbru.zip",
+              "md5": "ab79870f0a192ef5a8b5659397b49e63",
+              "sha1": "1a504d6e1e3a5821dbbeab39ce93a46719a72c2fe49193558cbb5130cdfbf27b"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "18.5",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn/nt/instantclient/185000/instantclient-tools-nt-18.5.0.0.0dbru.zip",
+              "md5": "4b634c0503c122d2070a98d508ec72c9",
+              "sha1": "48280f016dbbd9ba410485a861b771e0c26213e541a14b43d9d1c24e021f3e2b"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "18.5",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/nt/instantclient/185000/instantclient-sdk-nt-18.5.0.0.0dbru.zip",
+              "md5": "bac3f7afbabb44715d67677c6a5f6ec9",
+              "sha1": "736b046142bd3a62d6a08459bfc857bdc2cbfad6cd6ae43a7f099b369034f144"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "18.5",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/185000/instantclient-jdbc-nt-18.5.0.0.0dbru.zip",
+              "md5": "06df395f614260aea9bafab27ba1b531",
+              "sha1": "a3eb8b096a07f97efeba38147668d94aa76eab06ece588d053e5e28645daa30a"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "18.5",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/185000/instantclient-odbc-nt-18.5.0.0.0dbru.zip",
+              "md5": "e9549855064f2402650bab59b16564eb",
+              "sha1": "32816f0039b00ea4a33c677e278d8ed1afbcfb049cc6bd65de37e338f974c9f9"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "12.2",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/nt/instantclient/122010/instantclient-basic-nt-12.2.0.1.0.zip",
+              "md5": "20cb9642252a3278d85fdab0b002e622",
+              "sha1": "65c10391320ecce63347a40339efa17959dbd241b85fd3ae1dda37e00a6687df"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "12.2",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/nt/instantclient/122010/instantclient-basiclite-nt-12.2.0.1.0.zip",
+              "md5": "4fc776b3de0acb5b21448a9d5a19c557",
+              "sha1": "8d5cc2e01ccc09b2d51d16ac99c66bc06d10984cfb87efe94adc930495b690e4"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "12.2",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/nt/instantclient/122010/instantclient-sqlplus-nt-12.2.0.1.0.zip",
+              "md5": "13ff43de71c257b6157e376c7908ad1b",
+              "sha1": "4f5ee48ff452bdf560c77d88c604be92d61be49e45689875c98e88adb2c52059"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "12.2",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn/nt/instantclient/122010/instantclient-tools-nt-12.2.0.1.0.zip",
+              "md5": "2b6f9db25c264633ee25fe0b8ccc0fb9",
+              "sha1": "a71b0bfcbe547a4eb2f450b4a513ea986b6334bc3e3869039a5806b39950107e"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "12.2",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/nt/instantclient/122010/instantclient-sdk-nt-12.2.0.1.0.zip",
+              "md5": "0176d2dcf99b36d8e5c6ef4ee5dad5ea",
+              "sha1": "3ece92cf6dde9f46d3c1a1211cb071874bfa32deb64029a26e2dc37fd0f7fb70"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "12.2",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/122010/instantclient-jdbc-nt-12.2.0.1.0.zip",
+              "md5": "fd4657be805a491eca6182ee01af6b8d",
+              "sha1": "a179c896dcf88e25c6df9e4ceb81e06ae75ce2b9102f88926a2d5b5203244c62"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "12.2",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/122010/instantclient-odbc-nt-12.2.0.1.0-2.zip",
+              "md5": "41fe6859727575e2b905ef76d343c8a6",
+              "sha1": "756f862dc75a40814dc62a6fd5044b5580f3aee2574b3011b99dc1bf455a3342"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "12.1",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/nt/instantclient/121020/instantclient-basic-nt-12.1.0.2.0.zip",
+              "md5": "f46942d567982634ba09db8478fd8d44",
+              "sha1": "04e0e8b3164af7c1862f6a66cbd713bca8667466de517e7266479b68e533ab1e"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "12.1",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/nt/instantclient/121020/instantclient-basiclite-nt-12.1.0.2.0.zip",
+              "md5": "d4cbdb0a650887cf233bb1b8525a8ff0",
+              "sha1": "1cba5431dce46b63a4c7e5f0b7e93cf2f28f778534779e295d33950af3d85838"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "12.1",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/121020/instantclient-jdbc-nt-12.1.0.2.0.zip",
+              "md5": "a67496db3647de4f1ae27c208a6f56c5",
+              "sha1": "731bc0797c0967b09d1401c010873d124ad458d581a562e759615a8a9f1c67c2"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "12.1",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/nt/instantclient/121020/instantclient-sqlplus-nt-12.1.0.2.0.zip",
+              "md5": "7edc705cbb820572b57552137cfbcfb4",
+              "sha1": "aaa997a547eea3f67776be674bac64b4ab0a5754f8cbdcf0708e4d4f263bc089"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "12.1",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/nt/instantclient/121020/instantclient-sdk-nt-12.1.0.2.0.zip",
+              "md5": "374520e47844682dd09df63a7d051087",
+              "sha1": "de73fbf4c343b447083d37d331145f00ca187beed3d9c1f4988730838ee0f3b9"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "12.1",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/121020/instantclient-odbc-nt-12.1.0.2.0.zip",
+              "md5": "12164d1e9fc2e4b878d6225c42e5d0db",
+              "sha1": "a78a8c2f3271d38af075cf6666043968f780f8dd59ac3a2888f85cf1eda0ca78"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "12.1",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn/nt/instantclient/121020/instantclient-tools-nt-12.1.0.2.0.zip",
+              "md5": "7c0783176eb7dd161bf89d0c1fa9c755",
+              "sha1": "99bcaf6bfe8091109dc02de004ea61ff821fa674d7194f21fd8d5b825eff44a6"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "11.2",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/nt/instantclient/11204/instantclient-basic-nt-11.2.0.4.0.zip",
+              "md5": "ee883ad170937d2fefb94760f795cd6a",
+              "sha1": "4775c0e1ce7398eae855d97195eacb7ed8309b571a34528d80ea4aa6b7dba745"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "11.2",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/nt/instantclient/11204/instantclient-basiclite-nt-11.2.0.4.0.zip",
+              "md5": "2cecb9a98b37d02bc87aa8704b6b0c60",
+              "sha1": "4aba0b40c1936aa2fd76aef1980aaf0d9aa026985cd669ce695fe5f6ad56734f"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "11.2",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/11204/instantclient-jdbc-nt-11.2.0.4.0.zip",
+              "md5": "866c7e8eff3aba9ed0cccf471b8d2a18",
+              "sha1": "6aaca9098d88f5cca3b4135f6162ab7b99dd22292b7e79c3cd942327b5dc9d6a"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "11.2",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/nt/instantclient/11204/instantclient-sqlplus-nt-11.2.0.4.0.zip",
+              "md5": "d0ca42a446b264880af5e1fd7a761432",
+              "sha1": "d524fda06470271464927558024c21d47ac056057af9aa5b37f11bab951fdc6b"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "11.2",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/nt/instantclient/11204/instantclient-sdk-nt-11.2.0.4.0.zip",
+              "md5": "a8d06bd0b94bee2e3379aa184fb226d1",
+              "sha1": "5fd82e85b23d983a0f5efe6d0e41f3c84e1f82c8bbfe27625d0a66c70a654d1c"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "11.2",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/11204/instantclient-odbc-nt-11.2.0.4.0.zip",
+              "md5": "aa5a72d3cb8f3c72e90584b70255f39d",
+              "sha1": "8c2eb39f65a888abd36664d805c1b16e66c0ccdcdbc893611802e19e0573e65d"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "11.2",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn/nt/instantclient/11204/instantclient-tools-nt-11.2.0.4.0.zip",
+              "md5": "55841bcbeb0f8e4f6c3660ff3ddb47b1",
+              "sha1": "fddbc3acf39dfb982a32d2a98390a2da7d0f01ce65f3c78a7de6024bfdfc1f1b"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "11.1",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/nt/instantclient/111070/instantclient-basic-win32-11.1.0.7.0.zip",
+              "md5": "5cee35bd5c6dab98bd5f4e3345aa666f",
+              "sha1": "9aa5f0648498baa379cfb8d943a484952fe07b19f99b0cd9c37f083d433b99bb"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "11.1",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/nt/instantclient/111070/instantclient-basiclite-win32-11.1.0.7.0.zip",
+              "md5": "e36cedfe46fc4467e1dc982a4efd061a",
+              "sha1": "35df4ece731ba7af9502b223e569808710d38a5c5bd3157e71b247fa1c25eab8"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "11.1",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/111070/instantclient-jdbc-win32-11.1.0.7.0.zip",
+              "md5": "fbd34d55e40ea3091e6e3997801fdd48",
+              "sha1": "f94061d5bd5fc9b0414e0b0a262f248049a24f06c889d0b0b455d060c5687bfc"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "11.1",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/nt/instantclient/111070/instantclient-sqlplus-win32-11.1.0.7.0.zip",
+              "md5": "a9b164f2524097a67896edd39f201bfc",
+              "sha1": "e063a8784fd43f47a8d35213914a1431ec9de8dd6a26606c81571ac5f7a61de8"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "11.1",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/nt/instantclient/111070/instantclient-sdk-win32-11.1.0.7.0.zip",
+              "md5": "792af7f43caaa9c83533912a8d34a80f",
+              "sha1": "7f2f85d9d368334de9e3f7762c651bda9809565f6c21ebeb048db543e5e7d49e"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "11.1",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/111070/instantclient-odbc-win32-11.1.0.7.0.zip",
+              "md5": "6ad1d519811d1dc45242baa782932867",
+              "sha1": "ac60ca2bd3e7b45275d6b9275402afc86ce30cf4ff2f5603221841c094c0dc22"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "11.1",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn/nt/instantclient/111070/instantclient-tools-win32-11.1.0.7.0.zip",
+              "md5": "2cdc312af6f1bbea869675f648474ea3",
+              "sha1": "317bb30fdd55895749f24f04d43baf5816f841a623c74607816893f30ce3e0d7"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "10.2",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/nt/instantclient/10205/instantclient-basic-win32-10.2.0.5.zip",
+              "md5": "1c49c0d7a3ab9d2f69d4c497c60fc3dd",
+              "sha1": "2f3faf7ceef17898e4bc0866d02c1681b758994f88d82cfc8d2f0163ce7da659"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "10.2",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/nt/instantclient/10205/instantclient-basiclite-win32-10.2.0.5.zip",
+              "md5": "6cd0f4cec17d96251d0577ea9331662e",
+              "sha1": "15609c9a0968dcf345a56a44d615baf1122fa4cf27607c1d4a168d4a56244362"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "10.2",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/10205/instantclient-jdbc-win32-10.2.0.5.zip",
+              "md5": "cca3b3eadc3370396dec71895b801db0",
+              "sha1": "3d7cb2ab50db88751f1194e7f93694232893ba979fb820f6024f1014da19cec2"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "10.2",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/nt/instantclient/10205/instantclient-sqlplus-win32-10.2.0.5.zip",
+              "md5": "35095ce40d724e0c3614b956c52a4f18",
+              "sha1": "7bc2a615af20b2bb1b31dad3c3107371dcac2c592c0664b9ebfb211b010208da"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "10.2",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/nt/instantclient/10205/instantclient-sdk-win32-10.2.0.5.zip",
+              "md5": "6692b3d0541f5306c21419267f7f19c8",
+              "sha1": "70176169164691158f7601b4c424b1a59487d6e4e4d809997ecfd1b137c5b8c1"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "10.2",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/10205/instantclient-odbc-win32-10.2.0.5.zip",
+              "md5": "e34b7bbce0cfb033bd9374a58974b084",
+              "sha1": "a26e34e4805c4077a4d3b569ac4d570dd06e09ca3521273044f42a729a9bcd1a"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "10.1",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/nt/instantclient/instantclient-basic-win32-10.1.0.5-20060419.zip",
+              "md5": "b5173139f2606cf1a7027ea9d39b69e3",
+              "sha1": "2b9607a132b52bd0d02833a9ba1effb8b6d213725a03ec3d18768c7b56bb0dff"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "10.1",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/instantclient-jdbc-win32-10.1.0.5-20060419.zip",
+              "md5": "10649995526c9277395278834337d01a",
+              "sha1": "75d126887580ce67dd642be7075f192fe8aad481360b276eae614d4eb84cdc9c"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "10.1",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/nt/instantclient/instantclient-sqlplus-win32-10.1.0.5-20060419.zip",
+              "md5": "7ba80ee658d0c747191ded39ddab5538",
+              "sha1": "5ca4a979d896a52d76cee0df06aef20a830ad639a4a4ee8980d80a3ed653657e"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "10.1",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/nt/instantclient/instantclient-sdk-win32-10.1.0.5-20060419.zip",
+              "md5": "e646e7acde6dca1feffaac18ca342943",
+              "sha1": "5911ab4a937a15bc24dc0251347013afd37f7492ae573d59c80b2dc776b10c2f"
+            },
+            {
+              "platform": "win",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html",
+              "version": "10.1",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/instantclient-odbc-win32-10.1.0.5-20060419.zip",
+              "md5": "b8c2cb3860576ae8bf29bf4556d77359",
+              "sha1": "2e6b6f5c35aaf21af32946c56f4edaf96d8bf6318f6841ee01365c86da266c2d"
+            },
+            {
+              "platform": "win",
+              "arch": "i64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/windows-64-itanium-downloads.html",
+              "version": "10.2",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/nt/instantclient/10203/instantclient-basic-win-ia64-10.2.0.3.0.zip",
+              "md5": "39682556d8776f646e67c5965133b4f0",
+              "sha1": "9712469899be8fa2eee706b0d6ee582a5ce01817c45e33c55324392b858d1b54"
+            },
+            {
+              "platform": "win",
+              "arch": "i64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/windows-64-itanium-downloads.html",
+              "version": "10.2",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/nt/instantclient/10203/instantclient-basiclite-win-ia64-10.2.0.3.0.zip",
+              "md5": "58e043572a879073adb55e56e629deb8",
+              "sha1": "30e489f153e44970877b75272513656d35afd1a1f9e33b1b23db7b23f207ac82"
+            },
+            {
+              "platform": "win",
+              "arch": "i64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/windows-64-itanium-downloads.html",
+              "version": "10.2",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/10203/instantclient-jdbc-win-ia64-10.2.0.3.0.zip",
+              "md5": "3f087d57430a0b65d74edb9977925855",
+              "sha1": "11900743316490acd88a4e65ef65eba0ff368497777954dd7e3e28faaab23bea"
+            },
+            {
+              "platform": "win",
+              "arch": "i64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/windows-64-itanium-downloads.html",
+              "version": "10.2",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/nt/instantclient/10203/instantclient-sqlplus-win-ia64-10.2.0.3.0.zip",
+              "md5": "26cab29f38c8edb5eec21669d7404d06",
+              "sha1": "ae7701f71f03a80c639d892f87263b79dddef3d1f7d091525254751b274b1e07"
+            },
+            {
+              "platform": "win",
+              "arch": "i64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/windows-64-itanium-downloads.html",
+              "version": "10.2",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/10203/instantclient-odbc-win-ia64-10.2.0.3.0.zip",
+              "md5": "aad75603673fdffdeccb854ba1d9bb74",
+              "sha1": "cdad1440d70a09fae20eeabd4496a6418fc254e1585f12b0e13e27339602c3bd"
+            },
+            {
+              "platform": "win",
+              "arch": "i64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/windows-64-itanium-downloads.html",
+              "version": "10.2",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/nt/instantclient/10203/instantclient-sdk-win-ia64-10.2.0.3.0.zip",
+              "md5": "92c9b510bb4c0fb163a2591a7b0b16b9",
+              "sha1": "2ca85cfe9ff55ff2abade909215f8560ba925bc098fe2712317f4551fdcbfe63"
+            },
+            {
+              "platform": "win",
+              "arch": "i64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/windows-64-itanium-downloads.html",
+              "version": "10.1",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/nt/instantclient/instantclient-basic-win64-10.1.0.3-20050303.zip",
+              "md5": "e80d82b18e5333e3c9bd4c337e79709e",
+              "sha1": "ed35da0481c1d6379fd10fc40b80b79f179fa0e0de1d8b534d9aa9bca7510540"
+            },
+            {
+              "platform": "win",
+              "arch": "i64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/windows-64-itanium-downloads.html",
+              "version": "10.1",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/nt/instantclient/instantclient-jdbc-win64-10.1.0.3-20050303.zip",
+              "md5": "b6203149faf02eac34d519cd9520cf0a",
+              "sha1": "e3285f263889656bc6b13587e835a693e2346dee8520fa2a1585b3ce88945cee"
+            },
+            {
+              "platform": "win",
+              "arch": "i64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/windows-64-itanium-downloads.html",
+              "version": "10.1",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/nt/instantclient/instantclient-sqlplus-win64-10.1.0.3-20050303.zip",
+              "md5": "d7e1a5026a5036fdb7a96e14184d840e",
+              "sha1": "03b200a134ace75601a469f9dccf58f73ccb7f4541ae03d4e94b873ab52ea80e"
+            },
+            {
+              "platform": "win",
+              "arch": "i64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/windows-64-itanium-downloads.html",
+              "version": "10.1",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/nt/instantclient/instantclient-sdk-win64-10.1.0.3-20050303.zip",
+              "md5": "a49d8edf2ec06b339b58bc20bf1eb297",
+              "sha1": "8415ae4f8fb0b4d4671f84c46d4faeef5c152c72c8c8cd2389366e8e7533b1b3"
+            }
+          ]
+        },
+        "linux": {
+          "latest": "21.4",
+          "versions": [
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "21.4",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/214000/instantclient-basic-linux.x64-21.4.0.0.0dbru.zip",
+              "md5": "df282bc0dd10065205d1871ed465ad70",
+              "sha1": "58714313680f67334ca36a684a4f4a7344842ffe224192f5781b9f07f0750009"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "21.4",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/214000/instantclient-basiclite-linux.x64-21.4.0.0.0dbru.zip",
+              "md5": "b953429b769369e1068afbd1af0a6ce5",
+              "sha1": "9c63227844dde0924197708033d41845767cec94df478d4f61ee9e6ae3f6f665"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "21.4",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/214000/instantclient-sqlplus-linux.x64-21.4.0.0.0dbru.zip",
+              "md5": "c529732fee9e25917529b6aabd1b09f3",
+              "sha1": "9b118bf8065dcd4f332fd1e7ae00186c9b2dd1cfd57e9cefcac6a6a367c8d388"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "21.4",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/214000/instantclient-tools-linux.x64-21.4.0.0.0dbru.zip",
+              "md5": "3c9bf19aa26d0c09d6e06960af5862de",
+              "sha1": "78301d9d9ffd50c4bc0a57174b77be320890271a2bb0cdce601c85b18f761b0f"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "21.4",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/214000/instantclient-sdk-linux.x64-21.4.0.0.0dbru.zip",
+              "md5": "4f7e1d8733af4b326efac345e8b7fbc7",
+              "sha1": "3d639d918b0a64276cfbb97e314a7a5b08ba4c0147c4e8e294127d30c9210b77"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "21.4",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/214000/instantclient-jdbc-linux.x64-21.4.0.0.0dbru.zip",
+              "md5": "9a6d9d21ad3cdbd017c8d8dda17d0ecf",
+              "sha1": "99008768b8335807c960eb9cf62f04e592bc910eb34022f3aa2c1a0a2643ae88"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "21.4",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/214000/instantclient-odbc-linux.x64-21.4.0.0.0dbru.zip",
+              "md5": "3c11ecc46f8c91a09c6038a9cc1f2a19",
+              "sha1": "95c500f52f5104a83fe4a1575a831cede75c7889ffc2b6a94374f31512f334d8"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "19.13",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/1913000/instantclient-basic-linux.x64-19.13.0.0.0dbru-2.zip",
+              "md5": "87f5a4cf8344b9518c62f6d407c7f88d",
+              "sha1": "f1296b9423301c838f564ee80cbddfba79005ebd3c545d9a54f8e096f9047c4a"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "19.13",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/1913000/instantclient-basiclite-linux.x64-19.13.0.0.0dbru-2.zip",
+              "md5": "30a3f88bfc66a18bb41e63e06d919deb",
+              "sha1": "19281443704df969bd30e1a5b6d8fe8a3d2f682b109e361b4c34729632526c6c"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "19.13",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/1913000/instantclient-sqlplus-linux.x64-19.13.0.0.0dbru-2.zip",
+              "md5": "7201ef09a4c8e1bcd9517fe10eb4de25",
+              "sha1": "5f6884c9cd4756466309cd2fbe40c621609dcc8f978c61da111f26d2e0d444bf"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "19.13",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/1913000/instantclient-tools-linux.x64-19.13.0.0.0dbru-2.zip",
+              "md5": "5d9829b6811d4a3c0eb2f74fbdc07a45",
+              "sha1": "652fa7d9d50fa96305591884c0c4f3594c94af7e3a3b7cd8f9860e18375b5435"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "19.13",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/1913000/instantclient-sdk-linux.x64-19.13.0.0.0dbru-2.zip",
+              "md5": "1cd31dc46be9de41d5b2f9ca250cf733",
+              "sha1": "28d06791e88376bfe58db7f5446269f30447b34a9b7c83c326c9d597ca8ceb83"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "19.13",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/1913000/instantclient-jdbc-linux.x64-19.13.0.0.0dbru-2.zip",
+              "md5": "1624bdf952f87629790cec3b3566dbe0",
+              "sha1": "d1f8a0cd78277f0e79a825996ad8857a3dd92efa4ad4584b7d0ce29e674654e2"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "19.13",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/1913000/instantclient-odbc-linux.x64-19.13.0.0.0dbru-2.zip",
+              "md5": "5db8559fef590a687bd868611b74610b",
+              "sha1": "3caf60d55e2f93e3013324809046440a9a2a00c5be52b47d8a5d8dff520a7309"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "18.5",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/185000/instantclient-basic-linux.x64-18.5.0.0.0dbru.zip",
+              "md5": "15a3811c765bee079cc0441bf1ac2892",
+              "sha1": "9dae6778e2d7e0845d71f3383bafe26fdca0e55fc86f07f1d302dc97cf6d85d7"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "18.5",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/185000/instantclient-basiclite-linux.x64-18.5.0.0.0dbru.zip",
+              "md5": "6b6b4d4ff8aa9f483e0026653800924b",
+              "sha1": "809bb0ddb8de0ddc5d1e41385560308a5a1bfbd315f92f20c45c521c08793b92"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "18.5",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/185000/instantclient-sqlplus-linux.x64-18.5.0.0.0dbru.zip",
+              "md5": "318650becd079a4d718c0b99983e15f7",
+              "sha1": "4e91d4880f7a20208e9211409252815f1b26afb9638c2350a98fc52996036624"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "18.5",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/185000/instantclient-tools-linux.x64-18.5.0.0.0dbru.zip",
+              "md5": "86f11ba5e5baa627ba183b1d0604236f",
+              "sha1": "f82a1e592c0e9a7ac0c0d2befa9c1cdc50190338ba55f7d574ffcc19fb3de212"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "18.5",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/185000/instantclient-sdk-linux.x64-18.5.0.0.0dbru.zip",
+              "md5": "43e65b01cb69a813720f6d9e36932cf2",
+              "sha1": "2bbcfc984224e616a3d08693c5f85e6558bd76b50ad2ff78850371163c933fa4"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "18.5",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/185000/instantclient-jdbc-linux.x64-18.5.0.0.0dbru.zip",
+              "md5": "133bd82f4cdc1715e91f6f53f2057e1e",
+              "sha1": "4a678796c8d76b5c792f6642e3d0188962be9c4381fe89a036a4dc54df25b241"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "18.5",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/185000/instantclient-odbc-linux.x64-18.5.0.0.0dbru.zip",
+              "md5": "dbb45441c8d4d12dcce317215e3b6818",
+              "sha1": "76f4b7f1822280c33d26237fc42cb806d388da0ab0af0ed84843c3323d775822"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "12.2",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/linux/instantclient/122010/instantclient-basic-linux.x64-12.2.0.1.0.zip",
+              "md5": "cd1a22a5d6186b152ccbb845b64edaf4",
+              "sha1": "fdc2cfe807eed0bed6c53d008c7a6785bc7b69139cdee4460188035ae4730099"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "12.2",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/linux/instantclient/122010/instantclient-basiclite-linux.x64-12.2.0.1.0.zip",
+              "md5": "87cc5f5a8dca9f86b2d93e7d57216ff7",
+              "sha1": "52d6b973bcb6e303a261b0ea52204324a2d2836cbb01dd78aae7cc64b9acfd3f"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "12.2",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/linux/instantclient/122010/instantclient-jdbc-linux.x64-12.2.0.1.0.zip",
+              "md5": "ecb3fa5d3e7b76ed6aea800363c6048a",
+              "sha1": "6e6e05b2776ff78ecdd81794a5254c6c48ce60e7617e147f3cf253aef6d9dd10"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "12.2",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/linux/instantclient/122010/instantclient-sqlplus-linux.x64-12.2.0.1.0.zip",
+              "md5": "3c9c7c47ce8224931afb3a50af523647",
+              "sha1": "99df73090c767e2a8bffbcf9fe413de587a374c5875d412f481ce54b2223eaa9"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "12.2",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/linux/instantclient/122010/instantclient-sdk-linux.x64-12.2.0.1.0.zip",
+              "md5": "d8559e0538a801c935fafe77af8f4927",
+              "sha1": "dda8a33c3576ebe6ca999a0f6c2d83c02516f6327d4bc2206b7e0eee528eefe8"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "12.2",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/linux/instantclient/122010/instantclient-odbc-linux.x64-12.2.0.1.0-2.zip",
+              "md5": "fc62118d902e759d0d602e69def29d23",
+              "sha1": "66f57231c1558efe27ff45e73a704c0351f2a645455f0b50a5da43b411e5b5c9"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "12.2",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn/linux/instantclient/122010/instantclient-tools-linux.x64-12.2.0.1.0.zip",
+              "md5": "5e395f8a25e14910bff4a686da70ad08",
+              "sha1": "368e8272a45f80e4096f2c71f2f312cdaf603a69877e14f9da834882923d79f4"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "12.1",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/linux/instantclient/121020/instantclient-basic-linux.x64-12.1.0.2.0.zip",
+              "md5": "c9ccc5f0bccafc6670c33d8a4716f873",
+              "sha1": "37f9358b5d90e9a5d7ddba5490a80ac91d2da90d67e696fb9bcb67ae8c4a6f17"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "12.1",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/linux/instantclient/121020/instantclient-basiclite-linux.x64-12.1.0.2.0.zip",
+              "md5": "18607a004aaa15aa1cc27b21033c80c4",
+              "sha1": "b656c49968f84366e1cefaf6bf6df31221ab01edc255f0befb7e6100430a8db7"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "12.1",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/linux/instantclient/121020/instantclient-jdbc-linux.x64-12.1.0.2.0.zip",
+              "md5": "42ec61e0208b3d3e3e149fbe0dd19840",
+              "sha1": "3120ae0ac5ea98eeb9ce587727fd198608826054f76497f571b867c9a974ea33"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "12.1",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/linux/instantclient/121020/instantclient-sqlplus-linux.x64-12.1.0.2.0.zip",
+              "md5": "86e2e073ea3cf8cf42ecc7d41c139333",
+              "sha1": "03a1e5643322d397d19fe73295afcdf17a238ef73d1c0837c2270b04da74caf2"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "12.1",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/linux/instantclient/121020/instantclient-sdk-linux.x64-12.1.0.2.0.zip",
+              "md5": "274df84a7b5a6d3b6d42d4306852fcea",
+              "sha1": "01d6cf956f94eb45489601de800a6117875029bce17a9c237280aeb925b2186d"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "12.1",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/linux/instantclient/121020/instantclient-odbc-linux.x64-12.1.0.2.0.zip",
+              "md5": "bced4d7268ab77e024397c34197c4c67",
+              "sha1": "45d8a6ea892ea4a02f003c9e9f08f35455d645e19ad1944ba58c51a9b0dec83d"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "12.1",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn/linux/instantclient/121020/instantclient-tools-linux.x64-12.1.0.2.0.zip",
+              "md5": "47858eaac759426fefeebfb54a29682a",
+              "sha1": "1b4772b04400c073767b8a5c38768ff931f2fd2334a0eaa9d148344f0fc80b59"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "11.2",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/linux/instantclient/11204/instantclient-basic-linux.x64-11.2.0.4.0.zip",
+              "md5": "49d16d9263f5b4f803b89ee47c28fe31",
+              "sha1": "46ad8c1b8f4853ea6779d691e1085cb7a095127affc0a344cdf4a87aad338660"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "11.2",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/linux/instantclient/11204/instantclient-basiclite-linux.x64-11.2.0.4.0.zip",
+              "md5": "bff18edfbfdba165d76f1cc2eb9d80b3",
+              "sha1": "03b0c2b6eb72aa39ffa3d1b00983903b4d45b2b44dadb22000ae87ea1616d867"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "11.2",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/linux/instantclient/11204/instantclient-jdbc-linux.x64-11.2.0.4.0.zip",
+              "md5": "505ae0f5cd6c7f62e5293ddc0b3d14d1",
+              "sha1": "b698aaa71b15a7be6b6396c61d460476eca09e139745ae28eac18363d1aa7e55"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "11.2",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/linux/instantclient/11204/instantclient-sqlplus-linux.x64-11.2.0.4.0.zip",
+              "md5": "0ceae2363a3ae049523e0e931cdcd0f8",
+              "sha1": "ebcc2c6876a3f72f444c2da34328700c5a0a2221df249310f18c4280627f4d4f"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "11.2",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/linux/instantclient/11204/instantclient-sdk-linux.x64-11.2.0.4.0.zip",
+              "md5": "f648daf14d7555ea2681f7c2b0d88893",
+              "sha1": "27e188897a40e810a4f2e829d0a2a0780ee6a0025ae7212e393cec8f2df29b80"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "11.2",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/linux/instantclient/11204/instantclient-odbc-linux.x64-11.2.0.4.0.zip",
+              "md5": "9d9459e24a980bd543fe2baecadfd943",
+              "sha1": "35ddb7ee087126631a2d8e5f80fd3c4185669c36c839c138fdb6d848f60861e5"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "11.2",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn/linux/instantclient/11204/instantclient-tools-linux.x64-11.2.0.4.0.zip",
+              "md5": "6cd107d9bd70b32dd56f2c5a927c45f0",
+              "sha1": "1922f881f8b11a94c117dd2a4e52368ee7c512954f0a365dfe1969734e8fab06"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "11.1",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/linux/instantclient/111070/basic-11.1.0.70-linux-x86_64.zip",
+              "md5": "e0a80e11395bea8310af37caa6e92b84",
+              "sha1": "1613400824506d9981918e56f1fa6191269876f4c224b5420a97e6d6077a5c94"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "11.1",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/linux/instantclient/111070/basiclite-11.1.0.7.0-linux-x86_64.zip",
+              "md5": "16b743ef69c22c0006006663102dcdf3",
+              "sha1": "3208f42bd1a98c1c5cc011f036ad56afe589b5645f4f912655b3da027c02bce7"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "11.1",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/linux/instantclient/111070/jdbc-11.1.0.7.0-linux-x86_64.zip",
+              "md5": "f83bfd14b78b8790d75ccb526c0f3266",
+              "sha1": "fad0486d3e2a8c4c0372826133346ee2a49712a1e0919ab634d376bd3116c860"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "11.1",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/linux/instantclient/111070/sqlplus-11.1.0.7.0-linux-x86_64.zip",
+              "md5": "4f32fcfbea10a72ff5200832f6ec5b48",
+              "sha1": "2d94952b39c0442658094823db57c1e89242f5f08652e1a3748ce1bedda04a98"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "11.1",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/linux/instantclient/111070/sdk-11.1.0.7.0-linux-x86_64.zip",
+              "md5": "79d419700f89d598920eaa46f9145335",
+              "sha1": "110e27c529ea574bf288b5d6a09e9d48f7c5d06e2c7b3696d5cb8d18bccfd8a8"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "11.1",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn/linux/instantclient/111070/tools-11.1.0.7.0-linux-x86_64.zip",
+              "md5": "bdfc5d78b4c2485856237fd6f881d4f7",
+              "sha1": "856a0fa39e0997849b8b2c971f4fc7192f6ce30458d40a00f1ef98c1a28361a9"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "10.2",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/linux/instantclient/10205/basic-10.2.0.5.0-linux-x64.zip",
+              "md5": "331547021ff2ef4566d6fbba0830c919",
+              "sha1": "431c56baeac21b7604da418a7a2c40a24e3b1dfcab6bc442a59bfcef21260cfe"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "10.2",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/linux/instantclient/10205/basiclite-10.2.0.5.0-linux-x64.zip",
+              "md5": "c5904e6a7d5d4d9ebf0c62b29ba973e9",
+              "sha1": "e948888cc9f8c2f6d4e76bf2c6ded698b825b25e92b4aa08d7154191843c1a38"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "10.2",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/linux/instantclient/10205/jdbc-10.2.0.5.0-linux-x64.zip",
+              "md5": "7fc4aee789119abdd02a0afeea182e20",
+              "sha1": "c50e50189043598249ba4b181dfa556fda7058deff19fc03691341d9591f9c97"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "10.2",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/linux/instantclient/10205/sqlplus-10.2.0.5.0-linux-x64.zip",
+              "md5": "d01df09314524de333ec4aa74ada2e23",
+              "sha1": "adb3074e583eb891df5f9e552662848150c7a9e7c7f1cba76e3bbb01fb0674db"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "10.2",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/linux/instantclient/10205/sdk-10.2.0.5.0-linux-x64.zip",
+              "md5": "9f2d77ddee1cd6bdea0bfe72d74a85d2",
+              "sha1": "93b113379fc276eb3c6c2a9a09439153d4b3acbe53c9fe27435e3d2729bec559"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "10.2",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/linux/instantclient/10205/odbc-10.2.0.5.0-linux-x64.zip",
+              "md5": "d3ea7f18bf39731c59973f3d7de46ad3",
+              "sha1": "a1b9e4f036852984449d09f74870a8f736c3b85e4482808bbaf14411fc88bca0"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "10.1",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/linux/instantclient/instantclient-basic-linuxAMD64-10.1.0.5.0-20060519.zip",
+              "md5": "13ca4e790884907b535fb54a3de5ce3b",
+              "sha1": "1785e3f66b6d9b0f77b9d67323f4d659855c65b85e3e6853f92b5d79fb064566"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "10.1",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/linux/instantclient/instantclient-basic-linuxAMD64-32-10.1.0.5.0-20060519.zip",
+              "md5": "ed5180d024b7f3dbab9136637e84074e",
+              "sha1": "18800ead043b733b76b7c6a8d980f8830c7149d7d233b5ff3d42ae30b7c7df23"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "10.1",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/linux/instantclient/instantclient-jdbc-linuxAMD64-10.1.0.5.0-20060519.zip",
+              "md5": "bdc4ee7924655c790ea33cb8e1066378",
+              "sha1": "a861983012738ebf1ac73d48fe5cfdb8b89d4fc048ad71e906cb85105b2e32da"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "10.1",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/linux/instantclient/instantclient-jdbc-linuxAMD64-32-10.1.0.5.0-20060519.zip",
+              "md5": "4deeaf1ebcd7922cec337d237059f795",
+              "sha1": "c293677d6c572b5b4edb1cc3c17868e22bae2b2004d253148554735a34767b68"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "10.1",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/linux/instantclient/instantclient-sqlplus-linuxAMD64-10.1.0.5.0-20060519.zip",
+              "md5": "77c97ffc49acabadaa0c87f5a3760dd8",
+              "sha1": "0700ddf56b50b829804facf260db76adb1211fffe5ca7e6511f3928bb4d6d3de"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "10.1",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/linux/instantclient/instantclient-sqlplus-linuxAMD64-32-10.1.0.5.0-20060519.zip",
+              "md5": "d88669bb9a933baf9d27e5ce9a1bc9c8",
+              "sha1": "8862a4127cc745aeff613c82819845e3761ad561e80a85b34c26d4ce9fe6bd8c"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "10.1",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/linux/instantclient/instantclient-sdk-linuxAMD64-10.1.0.5.0-20060519.zip",
+              "md5": "5040bd4110bb3868c28e59a28a3272ba",
+              "sha1": "be201be3ad867e35ebb5685c94ceb5e231471fad0cf76579a9f853a9e8c76607"
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html",
+              "version": "10.1",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/linux/instantclient/instantclient-sdk-linuxAMD64-32-10.1.0.5.0-20060519.zip",
+              "md5": "d45c7a20935e8326dfc99be87abe1d00",
+              "sha1": "2d69a086578a61f32f555a3f800147196844d35c8e65455a72d345f9dfc73484"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "21.3",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/213000/instantclient-basic-linux-21.3.0.0.0.zip",
+              "md5": "c2e690daa6641ffd1b863181fb8f8542",
+              "sha1": "68afd4892c42f6ce583dc0fc2f062232328b103df586195588ef6e80266bea8a"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "21.3",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/213000/instantclient-basiclite-linux-21.3.0.0.0.zip",
+              "md5": "296941eeed231a64bff36998cfe8c7b4",
+              "sha1": "685fc8f156a4b521bf899db909a6803af9a8dfbbe024e4ad4a27dc0d12338157"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "21.3",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/213000/instantclient-sqlplus-linux-21.3.0.0.0.zip",
+              "md5": "0a8db9b29ac6eee80d3c3c7edb9b9584",
+              "sha1": "1a175fd8077b239284fa3f690a907825a538b71cf87f20e2416744d0b9f42bc9"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "21.3",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/213000/instantclient-tools-linux-21.3.0.0.0.zip",
+              "md5": "5636b4a649289f90fae36983eb3f7dca",
+              "sha1": "4155bf4117b66de0c9d86a2d45a6c62b8d6dd71661e1a7f3d5992bf79a645710"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "21.3",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/213000/instantclient-sdk-linux-21.3.0.0.0.zip",
+              "md5": "e99dc7698c472283b232bcf47290b314",
+              "sha1": "00928f47f1f6b4bc12c89a2164b5d42329a0b8a83c96d5f11bc906b8526e8552"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "21.3",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/213000/instantclient-jdbc-linux-21.3.0.0.0.zip",
+              "md5": "eb3d9d0775c27c60eb61a9aa6afd843a",
+              "sha1": "e2c70c37d24fe4e985bad510352fe077f4e58da581b3f2b61c79df8aa8974b92"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "21.3",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/213000/instantclient-odbc-linux-21.3.0.0.0.zip",
+              "md5": "38eb25f7485a5aa8aa32c441bcbe5739",
+              "sha1": "a71d66f50df70c040ccbc1726c1eed77caa483ef083ad1f90831c32acc4a8da0"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "19.12",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/1912000/instantclient-basic-linux-19.12.0.0.0dbru.zip",
+              "md5": "f7f45c70b11d214d45162c0166ab65d6",
+              "sha1": "d3bb673649ad42b4ae8e44603719b87398ab346c233133c24ce5958fcfbc0f33"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "19.12",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/1912000/instantclient-basiclite-linux-19.12.0.0.0dbru.zip",
+              "md5": "d8f764f3c9d91fd9f29bdf8628ab40d2",
+              "sha1": "3e3b7046bd1aa597e184e12e03bcb8d679b78897ff89107c4a494740b27d9bbf"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "19.12",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/1912000/instantclient-sqlplus-linux-19.12.0.0.0dbru.zip",
+              "md5": "a6ae59d50d44c2851825a138d9bd8a06",
+              "sha1": "55209daecdbb191f5e789f2096d89a85e55c06da5856f1930fbcd8e4e8fd6869"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "19.12",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/1912000/instantclient-tools-linux-19.12.0.0.0dbru.zip",
+              "md5": "7a6847c49e5242ed2ea2df98ab175daa",
+              "sha1": "8d3b73db80ba0c3e231f5e2a3ff39bd625b10d0a43eb7204bdfb92fcc7479447"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "19.12",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/1912000/instantclient-sdk-linux-19.12.0.0.0dbru.zip",
+              "md5": "5ef440ace4b8a2f7651d227a14fcb90a",
+              "sha1": "cfe7076245280634b36761144b9c2063f0dd226a35ee193ba0305063086cb0a9"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "19.12",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/1912000/instantclient-jdbc-linux-19.12.0.0.0dbru.zip",
+              "md5": "7b1428c710a87da98755a1bc92148f15",
+              "sha1": "c5033c991cb554852c92ae3f8669f4196fb0fa9060158d7a648e3ddd8e085296"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "19.12",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn_software/linux/instantclient/1912000/instantclient-odbc-linux-19.12.0.0.0dbru.zip",
+              "md5": "e9d08f9c23d6ae7f717691e7984bde41",
+              "sha1": "91f4257c0a5aa6025159287537e59ac9c35cf7bdf3d4f22640ab524d8555e502"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "18.3",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/linux/instantclient/183000/instantclient-basic-linux-18.3.0.0.0dbru.zip",
+              "md5": "0564b3110e1d318e85641f628924cf5a",
+              "sha1": "59d7eb478852349a0a70e73de0190fa3ef80702a7092187af472e8a2a3a58d48"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "18.3",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/linux/instantclient/183000/instantclient-basiclite-linux-18.3.0.0.0dbruzip",
+              "md5": "9267b873e7f851f81044f6dab98c3ebd",
+              "sha1": "635f415a3ef8fa893df6512f0c70fcc156ce5bf2f89acbbbbd03f3e266c72f58"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "18.3",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/linux/instantclient/183000/instantclient-sqlplus-linux-18.3.0.0.0dbru.zip",
+              "md5": "e9e9a97c240df95f3f51b1519ee06609",
+              "sha1": "08e0eaefffeb139bf051cb59336fda8182edbc65fa1887a032de832980baf551"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "18.3",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn/linux/instantclient/183000/instantclient-tools-linux-18.3.0.0.0dbru.zip",
+              "md5": "4605309abbf68418d5d4f5ca86b40b02",
+              "sha1": "5a5bdeb12db7c68eb6066eada53187b0b35eab8bee468cf366566c590a250ac7"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "18.3",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/linux/instantclient/183000/instantclient-sdk-linux-18.3.0.0.0dbru.zip",
+              "md5": "8a1c3feae7ad3708cb28b7ee24bbf8e1",
+              "sha1": "3ba0b89f58107e576960afb33dfe8ccc41096db3737150b1a09ae6b7738d9691"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "18.3",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/linux/instantclient/183000/instantclient-jdbc-linux-18.3.0.0.0dbru.zip",
+              "md5": "df4f97200d90941a8558b59bc550b7e9",
+              "sha1": "e4ab77f54318697761db51d9761ad07179b8b1d7641110f2d0492ed4c0ff79b5"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "18.3",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/linux/instantclient/183000/instantclient-odbc-linux-18.3.0.0.0dbru.zip",
+              "md5": "14f0a4850f08f2ca7f6b70886200d8b7",
+              "sha1": "21c5afdd8f47411817c70612dd9183aa4fc25b9ecadeb64d09f42698fb0d36f2"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "12.2",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/linux/instantclient/122010/instantclient-basic-linux-12.2.0.1.0.zip",
+              "md5": "d2e4e171126a069dccec6c04bfb3040e",
+              "sha1": "b6d36e0b73aea0aec7be69b51c74a1643de7d0dee002b2bf214e987df3a59bae"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "12.2",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/linux/instantclient/122010/instantclient-basiclite-linux-12.2.0.1.0.zip",
+              "md5": "61db91d93944b97c488f354c0fb5ee65",
+              "sha1": "2e54e863b8704cf0252715f1daf45835207d32b55f60ad6cff8edca217677dd9"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "12.2",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/linux/instantclient/122010/instantclient-jdbc-linux-12.2.0.1.0.zip",
+              "md5": "102eae5a6432f55714f13514de9ee808",
+              "sha1": "5a6f6a0a1f2f995bcfd0aa281c711579193303abf61a8b8b8b436bb0819a1691"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "12.2",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/linux/instantclient/122010/instantclient-sqlplus-linux-12.2.0.1.0.zip",
+              "md5": "71a2bc5a7ed2ff9f2c673487968a4826",
+              "sha1": "b1de5ab19f60d9d7806dd9b8e43fdbb02bce4893cde8b90f17cd7e8cc6fca9e0"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "12.2",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/linux/instantclient/122010/instantclient-sdk-linux-12.2.0.1.0.zip",
+              "md5": "8755eaa9e7a7c7030f2926373ba8cea8",
+              "sha1": "6263882e8b5ab45789e026bff194faf1ef559ef2a27c08b4930a90a442c5f38d"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "12.2",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/linux/instantclient/122010/instantclient-odbc-linux-12.2.0.1.0-2.zip",
+              "md5": "a3eeefc98b739ca497712e9ece7b8324",
+              "sha1": "723d9701e355abce5cc52ef1292f4de545b15aa1d80a3e7dc0fcbb5ba0cfa7f5"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "12.2",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn/linux/instantclient/122010/instantclient-tools-linux-12.2.0.1.0.zip",
+              "md5": "dd6ade63bf501fd5d4e6f94960c098ec",
+              "sha1": "244a1835881a395888ad71cd840922ee77cc2bc6164bd142f044fe9624d567a8"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "12.1",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/linux/instantclient/121020/instantclient-basic-linux-12.1.0.2.0.zip",
+              "md5": "068a7c612d14b39f58c780735f3333d8",
+              "sha1": "bc386412da42b5c20d8c14bf13f7c27432172592d56bc6117c9ecb33d80f6fb8"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "12.1",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/linux/instantclient/121020/instantclient-basiclite-linux-12.1.0.2.0.zip",
+              "md5": "d5f2d74b3ec6dec27f879478a7cbd839",
+              "sha1": "6d810cf5faf3f7e1aa7c3956c3723be2d245a35e9ed4ccb551e6581de06f195d"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "12.1",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/linux/instantclient/121020/instantclient-jdbc-linux-12.1.0.2.0.zip",
+              "md5": "921477fadf78b077b2dd5ce585bc1e76",
+              "sha1": "218c702507be2d7a977295cb604a101369a8cff54f0e246b992f6d421607a074"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "12.1",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/linux/instantclient/121020/instantclient-sqlplus-linux-12.1.0.2.0.zip",
+              "md5": "dbd3f96b8a527734c45b9eeeb935db21",
+              "sha1": "a4aab34c4efb36b124afc1204532f402e944c1ff48a9efa941164acc515290c6"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "12.1",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/linux/instantclient/121020/instantclient-sdk-linux-12.1.0.2.0.zip",
+              "md5": "9e96eb14d4e4041d5bef766105657690",
+              "sha1": "b1701f30b8f6687fd85dbcf5e9f7f3d6272e28c815260d1d499c03711a7bc051"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "12.1",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/linux/instantclient/121020/instantclient-odbc-linux-12.1.0.2.0.zip",
+              "md5": "467d6a2de24098facc2d1b10945c6178",
+              "sha1": "e8976e3fe5f5960420d6b3f58ad44de9f2638e460afdc771cb34bf9b7ddf795b"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "12.1",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn/linux/instantclient/121020/instantclient-tools-linux-12.1.0.2.0.zip",
+              "md5": "beaff381ab523ac76920985710917a99",
+              "sha1": "339e7407dc668f0334c4e780faf0fb1f69a982b1e161716af7f5dde846226177"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "11.2",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/linux/instantclient/11204/instantclient-basic-linux-11.2.0.4.0.zip",
+              "md5": "45cef3d811b473bdacfa0435e0d3c170",
+              "sha1": "fca622595e52fe1e85c6cff8a57757d3a2f5309dbd16acf5d2826e2bc8126ea9"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "11.2",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/linux/instantclient/11204/instantclient-basiclite-linux-11.2.0.4.0.zip",
+              "md5": "922a9fc7a8625f626c5a85995e1f2842",
+              "sha1": "2b7acd73b6e35b9c0cde2264aefc17c42afd2e0a05ab2fbbfd987274ccbbe381"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "11.2",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/linux/instantclient/11204/instantclient-jdbc-linux-11.2.0.4.0.zip",
+              "md5": "e34c04249eee7e75b733c202733b27d6",
+              "sha1": "47a1f71918cffc0a98e27d011479ff98b0ac0b96743d874b8bed57ec97f71c46"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "11.2",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/linux/instantclient/11204/instantclient-sqlplus-linux-11.2.0.4.0.zip",
+              "md5": "f0dcc108727f0070f04e9a39dce78a61",
+              "sha1": "efb6a8f3355c10e5357130e42ef0fd2dae8214c4d4800296d1fb7447c600aeb6"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "11.2",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/linux/instantclient/11204/instantclient-sdk-linux-11.2.0.4.0.zip",
+              "md5": "5f304494dde0507ac36f85ae0ebf6cf5",
+              "sha1": "c126633822a21bf1642d5136f23c2f9af08c1a2410acdf9bda96094a5313eb99"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "11.2",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/linux/instantclient/11204/instantclient-odbc-linux-11.2.0.4.0.zip",
+              "md5": "43e97a3f086399c1f62aea48a95e998b",
+              "sha1": "541609fd639abd254b7e5e3aebe17211f54b35055dbc390fd8956bf0c52cc59c"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "11.2",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn/linux/instantclient/11204/instantclient-tools-linux-11.2.0.4.0.zip",
+              "md5": "3f934be5e8f2a368cb46c1631d352a09",
+              "sha1": "f43af620ccc8c5bdffc135b96b370ee260cbbb485c09699c5a7169727ecac288"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "11.1",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/linux/instantclient/111070/instantclient-basic-linux32-11.1.0.7.zip",
+              "md5": "55b897769d00adc1c019298d34f73331",
+              "sha1": "60bd7ca8fed896378199ea0570234332368e8aca2838c3019d8ac40ead9acfe3"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "11.1",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/linux/instantclient/111070/instantclient-basiclite-linux32-11.1.0.7.zip",
+              "md5": "4c2446b513b3c312a18dda4cac6a0706",
+              "sha1": "678bc0af07e038e206aee0ad35ae2294f999994b31ef41ad41a6fb203540092d"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "11.1",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/linux/instantclient/111070/instantclient-jdbc-linux32-11.1.0.7.zip",
+              "md5": "c8f0392c821e9c900b12d1180a673bc6",
+              "sha1": "9e0fbc6d966461523803923adbd4fbc3309b563edb311d64ee25b9265ae80f47"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "11.1",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/linux/instantclient/111070/instantclient-sqlplus-linux32-11.1.0.7.zip",
+              "md5": "0d6ef6bf92835e517df1281b8e2d1bbb",
+              "sha1": "30e3123dec0d4e5bf71734ac18bf7bf6d19da5b78dcdccca095719353de03b46"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "11.1",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/linux/instantclient/111070/instantclient-sdk-linux32-11.1.0.7.zip",
+              "md5": "ef1f67351e7be8cbaa811dd125386e10",
+              "sha1": "edeba7e3e484c3c633d674773ad800e07c0bbed751e3fde4ceb916ca37b9f417"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "11.1",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/linux/instantclient/111070/instantclient-odbc-linux32-11.1.0.7.zip",
+              "md5": "a660b7687f66740812fcdc9006da1d75",
+              "sha1": "3fa108dc43b6dc4b66512bdd5bfda88a5e728a09afecdba8595cdcde07bdaa96"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "11.1",
+              "type": "tools",
+              "download": "https://download.oracle.com/otn/linux/instantclient/111070/instantclient-tools-linux32-11.1.0.7.zip",
+              "md5": "bb195250ad5ca83135d04c24ecb2ccfe",
+              "sha1": "e9344131600300c75a50a9418ff727d1eb648eb2feeb056ee56e14efb888a0b9"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "10.2",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/linux/instantclient/10205/basic-10.2.0.5.0-linux.zip",
+              "md5": "30aa82b58d686175898937b1b6c97534",
+              "sha1": "efee1a7aa0dcd140a6ee2a70f09e933e742c422e4a0045cb2f71b4a264d97192"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "10.2",
+              "type": "lite",
+              "download": "https://download.oracle.com/otn/linux/instantclient/10205/basiclite-10.2.0.5.0-linux.zip",
+              "md5": "18b81f85bd07a85c074ba287a5e2936e",
+              "sha1": "3a7f30feb38a70e82e2a70f39872269940b8c8481cb7d83695f8378a54c5eb33"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "10.2",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/linux/instantclient/10205/jdbc-10.2.0.5.0-linux.zip",
+              "md5": "084a26de5ffeca56b82345fde8b3ac39",
+              "sha1": "8abcbcfbe18001ed47d63f8f1591d6d2c9d8bd980454e1e44a83662740ab24fe"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "10.2",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/linux/instantclient/10205/sqlplus-10.2.0.5.0-linux.zip",
+              "md5": "59b726fc5e646789caaafc0ad10069e8",
+              "sha1": "bafc01a241b18efd72ee2121bc60eaee57ccf78a516cc02a0bd78d8d50d41c7d"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "10.2",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/linux/instantclient/10205/sdk-10.2.0.5.0-linux.zip",
+              "md5": "847208ec801843920b7742e76b0594e4",
+              "sha1": "e7d86526004ea4b2bfbbb3d6866ca4e5c389031a7b7c203a42a26835d2522611"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "10.2",
+              "type": "odbc",
+              "download": "https://download.oracle.com/otn/linux/instantclient/10205/odbc-10.2.0.5.0-linux.zip",
+              "md5": "5218b610071da93bf1f438187134e9f7",
+              "sha1": "42b0c2e9c3c377b4a371fa90a4a97f87d65ff6098014ec404de8269a9141e2da"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "10.1",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/linux/instantclient/instantclient-basic-linux32-10.1.0.5-20060511.zip",
+              "md5": "9f6ae8c1a07aa2b7d5f854e4d1b35b63",
+              "sha1": "4c28a127aeeac693504a9021c5f0940462185845ade129e18e9013a3929d8e0b"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "10.1",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/linux/instantclient/instantclient-jdbc-linux32-10.1.0.5-20060511.zip",
+              "md5": "8afea2488cdf4950fd20f6903336af5c",
+              "sha1": "8d749152500c831bc81036ab5c708af72e877cbcfca14ce01b15fad97cfb55ab"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "10.1",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/linux/instantclient/instantclient-sqlplus-linux32-10.1.0.5-20060511.zip",
+              "md5": "55d8fed0099b5c6306f535f40f0ee2f9",
+              "sha1": "ffd3105ec9d54b68f8a460cb0819b9c998af0ee0feaeba6a296b10be2bb06177"
+            },
+            {
+              "platform": "linux",
+              "arch": "x86",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html",
+              "version": "10.1",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/linux/instantclient/instantclient-sdk-linux32-10.1.0.5-20060511.zip",
+              "md5": "71ad13e5a64ab7614cd7ba935aeeb609",
+              "sha1": "f1346eb80354f5824deb8b6bed449fe998213fcad3a63e9f0cbc9ebb277202d5"
+            },
+            {
+              "platform": "linux",
+              "arch": "amd64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-amd64-downloads.html",
+              "version": "10.1",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/linux/instantclient/instantclient-basic-linuxAMD64-10.1.0.5.0-20060519.zip",
+              "md5": "371a80976ee815f49a68d83d18d29395",
+              "sha1": "c5df71ca9427fc6b41d4fa9753199791cf2287889a282e236cee7093574ad050"
+            },
+            {
+              "platform": "linux",
+              "arch": "amd64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-amd64-downloads.html",
+              "version": "10.1",
+              "type": "basic",
+              "download": "https://download.oracle.com/otn/linux/instantclient/instantclient-basic-linuxAMD64-32-10.1.0.5.0-20060519.zip",
+              "md5": "a36394e487bb1a6ded28ab381ea51f33",
+              "sha1": "5d3a85fd84511f3e1da311cae9ed0d8aa2cca8ccd4b08d4be90ffdd32832b2e6"
+            },
+            {
+              "platform": "linux",
+              "arch": "amd64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-amd64-downloads.html",
+              "version": "10.1",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/linux/instantclient/instantclient-jdbc-linuxAMD64-10.1.0.5.0-20060519.zip",
+              "md5": "aefb7b8d5f774a870498fa0feb6c7282",
+              "sha1": "a2dd8097cf08a122554cb9fe73e64207ff7cce6a8211b0bb2d08d90fbf528596"
+            },
+            {
+              "platform": "linux",
+              "arch": "amd64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-amd64-downloads.html",
+              "version": "10.1",
+              "type": "jdbc",
+              "download": "https://download.oracle.com/otn/linux/instantclient/instantclient-jdbc-linuxAMD64-32-10.1.0.5.0-20060519.zip",
+              "md5": "b9e2961e078b50e27fa5529e9a075bf2",
+              "sha1": "af4b24e8c4412a368903b8d3a7a5597325e1a61e36322f09051fa5e0b019ad2b"
+            },
+            {
+              "platform": "linux",
+              "arch": "amd64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-amd64-downloads.html",
+              "version": "10.1",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/linux/instantclient/instantclient-sqlplus-linuxAMD64-10.1.0.5.0-20060519.zip",
+              "md5": "8c9c86d75b67b5307d27d4b737dc4e6f",
+              "sha1": "cd00ae1561a8360bdde9c728169aed73e46cc9e64156e47668d24d6a8f89648f"
+            },
+            {
+              "platform": "linux",
+              "arch": "amd64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-amd64-downloads.html",
+              "version": "10.1",
+              "type": "sqlplus",
+              "download": "https://download.oracle.com/otn/linux/instantclient/instantclient-sqlplus-linuxAMD64-32-10.1.0.5.0-20060519.zip",
+              "md5": "d3962d705d1323ec8c4af08b41e9e0bb",
+              "sha1": "bcb9a0729977c256649e59783da643d243f161619d5f09b10f90ab5a1af2cfbd"
+            },
+            {
+              "platform": "linux",
+              "arch": "amd64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-amd64-downloads.html",
+              "version": "10.1",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/linux/instantclient/instantclient-sdk-linuxAMD64-10.1.0.5.0-20060519.zip",
+              "md5": "25fa277985fed4decd75e61c018264d2",
+              "sha1": "9e3e3b1fed5d667c8862d2bcef22a6cb48552a231c565e7bbc4e9d2b66f172f5"
+            },
+            {
+              "platform": "linux",
+              "arch": "amd64",
+              "url": "https://www.oracle.com/database/technologies/instant-client/linux-amd64-downloads.html",
+              "version": "10.1",
+              "type": "sdk",
+              "download": "https://download.oracle.com/otn/linux/instantclient/instantclient-sdk-linuxAMD64-32-10.1.0.5.0-20060519.zip",
+              "md5": "6043d70acc28d25a6ac2123223f6abb5",
+              "sha1": "d64ed68f41ca55e76c8367588015e6e701621cb792ef4be5ef82fdcb7b2bac57"
+            }
+          ]
+        }
+      }
+    }
+  }

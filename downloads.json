@@ -1,0 +1,11 @@
+[   { "platform":"darwin", "arch":"x86_64",   "url":"https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html"},
+    { "platform":"darwin", "arch":"ppc",   "url":"https://www.oracle.com/database/technologies/instant-client/macos-x-ppc-downloads.html"},
+    { "platform":"win", "arch":"x64",   "url":"https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html"},
+    { "platform":"win", "arch":"x86",   "url":"https://www.oracle.com/database/technologies/instant-client/microsoft-windows-32-downloads.html"},
+    { "platform":"win", "arch":"i64",   "url":"https://www.oracle.com/database/technologies/instant-client/windows-64-itanium-downloads.html"},
+    { "platform":"linux","arch":"x64",  "url":"https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html"},
+    { "platform":"linux","arch":"x86",  "url":"https://www.oracle.com/database/technologies/instant-client/linux-x86-32-downloads.html"},
+    { "platform":"linux","arch":"amd64","url":"https://www.oracle.com/database/technologies/instant-client/linux-amd64-downloads.html"}]
+
+
+
